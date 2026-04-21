@@ -1,10 +1,8 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Harman%20Brar&fontSize=40&fontColor=ffffff)
+## Hi, I'm Harman 👋
 
-## Hi 👋
+I am a Software Engineer building real-time systems and ML-driven decision infrastructure at scale.
 
-Software Engineer building real-time systems and ML-driven decision infrastructure at scale.
-
-I hold a Bachelor of Science in Physics and build systems that process real-time data and make decisions at scale — primarily in distributed systems, ML infrastructure, and backend platforms.
+I hold a Bachelor of Science in Physics and AWS certification in cloud architecture, with experience building backend and data-intensive systems across distributed environments.
 
 ---
 
@@ -19,13 +17,14 @@ Currently building production real-time decisioning systems and machine learning
 - Distributed systems & backend infrastructure  
 - Real-time ML systems  
 - High-throughput data pipelines  
-- Probabilistic / decision-based systems  
+- Probabilistic / decision-based systems
+- E2E Software Development  
 
 ---
 
 ## 💼 Work
 
-Most of my engineering work is done in private/organization repositories as part of my role at Kero Sports, where I build and operate real-time systems, data pipelines, and machine learning infrastructure in production environments.
+All of my engineering work is done in private/organization repositories as part of my role at Kero Sports, where I build and operate real-time systems, data pipelines, and machine learning infrastructure in production environments.
 
 ---
 
